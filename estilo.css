@@ -1,0 +1,36 @@
+.marcador{
+	background: #fe9d9d;
+	border:1px solid #f94646;
+}
+
+.marcador2{
+	background: #5bf946;
+	border:1px solid #36ae26;
+}
+
+body{
+		margin: 0;
+		background: #dbead5;
+
+}
+main{
+
+
+}
+.page-header{
+	text-align: center;
+	background: url(vaca.jpg) center;
+	color: white;
+}
+
+.container{
+	width: 100vw;
+	height: 100vh;
+
+}
+h1{
+	color: white;
+}
+h3{
+	color:black;
+}
